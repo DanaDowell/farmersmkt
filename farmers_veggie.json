@@ -1,0 +1,37 @@
+]
+{
+"produceTitle": "Arugula",
+"produceCode": "arugula",
+"whatIs": "veg"
+},
+{
+"produceTitle": "Cucumbers",
+"produceCode": "cucumbers",
+"whatIs": "veg"
+},
+{
+"produceTitle": "Eggplant",
+"produceCode": "eggplant",
+"whatIs": "veg"
+},
+{
+"produceTitle": "Eggplant Japanese",
+"produceCode": "eggplant_japanese",
+"whatIs": "veg"
+},
+{
+"produceTitle": "Eggplant White",
+"produceCode": "eggplant_white",
+"whatIs": "veg"
+},
+{
+"produceTitle": "Tomatoes",
+"produceCode": "tomatoes",
+"whatIs": "veg"
+},
+{
+"produceTitle": "Zucchini",
+"produceCode": "zucchini",
+"whatIs": "veg"
+}
+]

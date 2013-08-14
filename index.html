@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <title>farmers market produce</title>
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css">
+
+        <!-- jQuery and jQuery Mobile -->
+        <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.css" />
+
+        <!-- apigee usergrid BE js -->
+        <script src="https://apigee.com/usergrid/sdk/usergrid.0.10.5.js"></script>
+
+        <script src="farmers.js"></script>
+    </head>
+    <body>
+        <!-- Home -->
+        <div data-role="page" id="veggieList">
+            <div data-theme="e" data-role="header">
+                <h3>
+                farmer veggie
+                </h3>
+            </div>
+            <div data-role="content">
+                <div id="produceList" data-role="collapsible-set" data-theme="d">
+
+                </div>
+
+            </div>
+
+        </div>
+        
+        <!-- <div data-role="page" id="recipeList">
+        <div data-theme="e" data-role="header">
+        <h3>
+        farmer recipe
+        </h3>
+        </div>
+        <div data-role="content">
+        <ul id="recipeList" data-role="listview" data-theme="d">
+
+        </ul>
+        </div>
+
+        </div> -->
+    </body>
+</html>
