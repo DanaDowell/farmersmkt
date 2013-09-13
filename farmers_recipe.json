@@ -1,52 +1,58 @@
 [
 {
-"recipeLink":"http://www.nytimes.com/2008/07/22/health/nutrition/22recipehealth.html",
-"recipeTitle":"Pasta With Cherry Tomatoes and Arugula",
-"ingredients":{
-"arugula":"true",
-"tomatoes":"true"
-},
-"whatIs": "veg"
-},
-{
-"recipeLink":"link",
-"recipeTitle":"Cucumbers Tossed in Vietnamese Dipping Sauce",
-"ingredients":{
-"cucumbers":"true"
-},
-"whatIs": "veg"
+	"name":"arugula",
+	"recipeLink":"http://www.nytimes.com/2008/07/22/health/nutrition/22recipehealth.html",
+	"recipeTitle":"Pasta With Cherry Tomatoes and Arugula",
+	"ingredients":{
+	"arugula":1,
+	"tomatoes":1
+	},
+	"whatIs": "veg"
 },
 {
-"recipeLink":"http://www.nytimes.com/2011/07/29/health/nutrition/29recipehealth.html",
-"recipeTitle":"Sweet and Sour Eggplant, Tomatoes and Chickpeas",
-"ingredients":{
-"eggplant":"true",
-"tomatoes":"true"
-},
-"whatIs": "veg"
-},
-{
-"recipeLink":"http://www.nytimes.com/2010/07/19/health/nutrition/19recipehealth.html",
-"recipeTitle":"Eggplant on the Grill",
-"ingredients":{
-"eggplant_white":"true"
-},
-"whatIs": "veg"
+	"name":"cucumbers",
+	"recipeLink":"link",
+	"recipeTitle":"Cucumbers Tossed in Vietnamese Dipping Sauce",
+	"ingredients":{
+	"cucumbers":1
+	},
+	"whatIs": "veg"
 },
 {
-"recipeLink":"http://www.nytimes.com/recipes/10073/Pasta-With-Grilled-Summer-Vegetables.html",
-"recipeTitle":"Pasta With Grilled Summer Vegetables",
-"ingredients":{
-"eggplant_japanese":"true"
-},
-"whatIs": "veg"
+	"name":"eggplant",
+	"recipeLink":"http://www.nytimes.com/2011/07/29/health/nutrition/29recipehealth.html",
+	"recipeTitle":"Sweet and Sour Eggplant, Tomatoes and Chickpeas",
+	"ingredients":{
+	"eggplant":1,
+	"tomatoes":1
+	},
+	"whatIs": "veg"
 },
 {
-"recipeLink":"http://www.nytimes.com/2011/08/17/health/nutrition/17recipehealth.html",
-"recipeTitle":"Marinated Zucchini Salad",
-"ingredients":{
-"zucchini":"true"
+	"name":"eggplant_white",
+	"recipeLink":"http://www.nytimes.com/2010/07/19/health/nutrition/19recipehealth.html",
+	"recipeTitle":"Eggplant on the Grill",
+	"ingredients":{
+	"eggplant_white":1
+	},
+	"whatIs": "veg"
 },
-"whatIs": "veg"
+{
+	"name":"eggplant_japanese",
+	"recipeLink":"http://www.nytimes.com/recipes/10073/Pasta-With-Grilled-Summer-Vegetables.html",
+	"recipeTitle":"Pasta With Grilled Summer Vegetables",
+	"ingredients":{
+	"eggplant_japanese":1
+	},
+	"whatIs": "veg"
+},
+{
+	"name":"zucchini",
+	"recipeLink":"http://www.nytimes.com/2011/08/17/health/nutrition/17recipehealth.html",
+	"recipeTitle":"Marinated Zucchini Salad",
+	"ingredients":{
+		"zucchini":1
+		},
+	"whatIs": "veg"
 }
 ]
