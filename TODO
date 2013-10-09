@@ -1,7 +1,0 @@
-branch farmers mkt project in git
-do a whole new project with local json files and backbone
-1. set up backbone project files
-2. write a vegetable model with a recipe sub-model
-3. write a vegetable view
-4. write a recipe view
-5. write a collection of vegetables
